@@ -1,0 +1,5 @@
+# 排除文章
+_site/
+
+# 排除 sass 缓存
+.sass-cache

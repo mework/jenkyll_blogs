@@ -1,0 +1,26 @@
+# Site settings
+name: 残梦
+email: canmeng@163.com
+author: Freud Kang
+url: 
+resume_site: 
+github: https://github.com/mework/
+baseurl: ""
+description: take control of your own desting.
+meta_description: 残梦;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: don't give up and don't give in.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: canmeng
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
